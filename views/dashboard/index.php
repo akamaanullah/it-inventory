@@ -1,3 +1,13 @@
+<?php
+if (!isset($pageTitle)) $pageTitle = 'IT Asset Management Suite';
+if (!isset($stats)) {
+    $stats = [
+        'totalAllocated' => 1485,
+        'totalDepartments' => 7,
+        'backupStockCount' => 50
+    ];
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
