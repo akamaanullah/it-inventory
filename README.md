@@ -2,7 +2,7 @@
 
   <!-- Header Banner / Hero -->
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3b1d&height=200&section=header&text=IT%20Inventory%20v1.0&fontSize=48&fontColor=ffffff&desc=Enterprise%20IT%20Asset%20%26%20Hardware%20Management%20Suite&descSize=16&descAlignY=72" width="100%" alt="IT Inventory Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3b1d&height=200&section=header&text=IT%20Inventory%20v1.0&fontSize=46&fontColor=ffffff&desc=Enterprise%20IT%20Asset%20Management%20Suite&descSize=16&descAlignY=72" width="100%" alt="IT Inventory Banner" />
   </p>
 
   <!-- Status & Tech Badges -->
